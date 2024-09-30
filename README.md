@@ -1,19 +1,15 @@
-# All In One Personal App
+# Notes App
 
-Welcome to All In One Personal App – your ultimate companion for staying organized and on top of things. Built with Flutter, this app brings together all the tools you need to manage your life in one place:
+A **Notes App** built using **Flutter** and **Hive** for efficient local data storage. This app allows users to create, edit, and delete notes with an intuitive and minimalist design.
 
+![Screenshot_1727703366](https://github.com/user-attachments/assets/239ce3fb-882f-48fb-8633-62157dd38ae0)
 
-Calendar App: Keep your schedule in check with our intuitive calendar. Plan and manage your events, set reminders, and get a clear view of your daily, weekly, or monthly agenda.
-
-Expense Tracker: Take control of your finances effortlessly. Log your expenses, categorize them, and see where your money goes with easy-to-understand visualizations.
-
-Habit Tracker: Build good habits and break bad ones with our habit tracker. Set goals, track your progress, and stay motivated with visual reports that celebrate your successes.
-
-To-Do List: Never miss a task again. Our to-do list feature helps you organize and prioritize your tasks, so you can focus on what matters most and stay productive.
-
-Notes App: Jot down ideas, thoughts, and important information with ease. Our notes app is simple yet powerful, making it easy to capture and revisit your notes whenever you need.
+![Screenshot_1727703391](https://github.com/user-attachments/assets/d9071abd-5da2-4486-b0f5-3346f99cd159)
 
 
-With a user-friendly design and a focus on simplicity, All In One Personal App is here to help you manage your life with less stress and more efficiency. Whether you're scheduling your day, tracking your spending, building new habits, or just keeping track of ideas, we've got you covered.
+## Features
 
-Dive in and see how All In One Personal App can make your daily life a little easier and a lot more organized!
+- **Add Notes**: Quickly create new notes with titles and content.
+- **Edit/Delete Notes**: Update or remove existing notes.
+- **Local Data Persistence**: Notes are stored locally using Hive, ensuring fast performance and offline access.
+- **Search Functionality**: Easily search for notes by title or content.
